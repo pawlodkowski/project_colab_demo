@@ -4,7 +4,7 @@ import time
 import random
 
 df = pd.read_csv("data/monday.csv")
-states = ["entrance", "fruits", "dairy", "spices", "checkout"]
+states = ["entrance", "drinks", "fruits", "dairy", "spices", "checkout"]
 
 
 class Customer:
