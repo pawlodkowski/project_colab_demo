@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 df = pd.read_csv('data/monday.csv')
 
 def explore():
+    '''let's do some exploration!!!'''
     pass 
 
 if __name__ == '__main__':
