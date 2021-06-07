@@ -6,8 +6,10 @@ df2 = pd.read_csv("data/tuesday.csv")
 
 
 def explore():
-    """Nice function docstring"""
+
+    '''let's do some exploration!!!'''
     return None
+
 
 
 if __name__ == "__main__":
