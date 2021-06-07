@@ -7,8 +7,14 @@ df2 = pd.read_csv("data/tuesday.csv")
 
 def explore():
 
+
+if __name__ == '__main__':
+    while True:
+        print("wow. such data. I'll explore it forevvvveeeeeeer....")
+
     '''let's do some exploration!!!'''
     return None
+
 
 
 
