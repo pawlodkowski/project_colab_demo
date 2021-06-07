@@ -7,5 +7,6 @@ def explore():
     pass 
 
 if __name__ == '__main__':
-    print('wow. such data. much exploration.')
+    while True:
+        print("wow. such data. I'll explore it forevvvveeeeeeer....")
 
