@@ -15,7 +15,8 @@ if __name__ == "__main__":
     while True:
         
         print('before you run anything, remember: may the loop be with you')
-
+        print('my young padavan')
+        
         loc = random.choices(states)[0]
         if loc == "checkout":
             print("Checked out!")
