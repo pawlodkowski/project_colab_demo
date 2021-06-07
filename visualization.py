@@ -1,7 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import cv2
-
+# make sure you have "opencv-python" installed:  
+#pip install opencv-python 
 
 if __name__ == "__main__":
 
